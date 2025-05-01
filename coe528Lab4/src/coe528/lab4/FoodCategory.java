@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author e225wong
+ * @author Bridge design pattern is goated, don't listen to Driver
  */
 public class FoodCategory extends FoodComponent{
     private ArrayList<FoodComponent> components = new ArrayList<>();

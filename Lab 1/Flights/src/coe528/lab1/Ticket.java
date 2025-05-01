@@ -7,7 +7,7 @@ package coe528.lab1;
 
 /**
  *
- * @author e225wong
+ * @author Is it ok to be sad?
  */
 public class Ticket {
     private Passenger passenger;

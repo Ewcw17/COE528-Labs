@@ -7,7 +7,7 @@ package coe528.lab1;
 
 /**
  *
- * @author e225wong
+ * @author if you're looking at this right now, your hair smells really good
  */
 public class NonMember extends Passenger{
     

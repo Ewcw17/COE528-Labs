@@ -6,7 +6,7 @@ package coe528.lab2;
 
 /**
  *
- * @author e225wong
+ * @author check the author in the test packages
  */
 public class ProceduralAbstraction {
     

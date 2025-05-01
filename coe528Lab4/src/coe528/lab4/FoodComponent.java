@@ -6,7 +6,7 @@ package coe528.lab4;
 
 /**
  *
- * @author e225wong
+ * @author Adapter is the most useful and dignified pattern, have some respect
  */
 public abstract class FoodComponent {
     protected String name;

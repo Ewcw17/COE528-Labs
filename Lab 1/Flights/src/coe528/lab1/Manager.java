@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author e225wong
+ * @author mickey mouse
  */
 public class Manager {
     

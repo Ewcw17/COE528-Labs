@@ -7,7 +7,7 @@ package coe528.lab1;
 
 /**
  *
- * @author e225wong
+ * @author Have you ever felt like you're not good enough?
  */
 public class Member extends Passenger{
     private int yearsOfMembership;

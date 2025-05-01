@@ -13,7 +13,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author e225wong
+ * @author This one loses a lot of marks because of the exception, 
+ * to get more marks, you should remove the exception and make the factorial of 0 equal to 1
  */
 public class ProceduralAbstractionTest {
     

@@ -6,7 +6,7 @@ package coe528.lab4;
 
 /**
  *
- * @author e225wong
+ * @author Strategy design pattern is the best! don't listen to anyone else
  */
 public class Driver {
     public static void main(String[] args) {

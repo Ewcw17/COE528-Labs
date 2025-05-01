@@ -6,7 +6,7 @@ package coe528.lab1;
 
 /**
  *
- * @author e225wong
+ * @author ain't no play, she never liked me
  */
 public class Flight {
     

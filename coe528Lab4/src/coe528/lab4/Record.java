@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author e225wong
+ * @author Singleton
  */
 public class Record {
     

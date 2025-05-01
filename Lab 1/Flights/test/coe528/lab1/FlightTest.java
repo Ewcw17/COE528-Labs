@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author e225wong
+ * @author DONT LOOK AT ME
  */
 public class FlightTest {
     

@@ -6,7 +6,7 @@ package coe528.lab4;
 
 /**
  *
- * @author e225wong
+ * @author Guys, Composite design pattern is the sexiest
  */
 public class FoodItem extends FoodComponent{
     private double price;

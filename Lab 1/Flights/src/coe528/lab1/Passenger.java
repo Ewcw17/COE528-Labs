@@ -6,7 +6,7 @@ package coe528.lab1;
 
 /**
  *
- * @author e225wong
+ * @author Jawline, chewing gum, sexy
  */
 public abstract class Passenger {
     

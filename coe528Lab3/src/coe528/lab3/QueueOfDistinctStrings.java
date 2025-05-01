@@ -6,7 +6,7 @@ package coe528.lab3;
 
 /**
  *
- * @author e225wong
+ * @author Boujiemama Guermazi
  */
 import java.util.ArrayList;
 public class QueueOfDistinctStrings {
